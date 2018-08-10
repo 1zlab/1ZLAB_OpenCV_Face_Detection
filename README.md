@@ -11,7 +11,7 @@ opencv实现人脸检测， 识别视频流中人脸的位置，并且画出人�
 ## 视频教程
 
 1Z实验室同时也出品了配套的视频教程：
-
+[【OpenCV基础教程】2.人脸检测初探（1Z实验室）](https://www.bilibili.com/video/av28774187?from=search&seid=17832170123663965893)
 
 
 ![人脸检测](./image/01.png)
